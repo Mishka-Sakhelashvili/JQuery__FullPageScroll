@@ -1,0 +1,57 @@
+html,
+body,
+.slider,
+.slide,
+.bg{    
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;        
+}
+.slider{
+    background: #000;       
+}
+.slide{
+    background: #000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate3d(0,0,0);
+    transition: 800ms;   
+}
+.bg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 800ms;
+}
+.queue{
+    transform: translate3d(0, 100%, 0);           
+}
+.prev{
+    transform: translate3d(0,-50%,0); 
+}
+.prev .bg{
+    opacity: 0.5;   
+}
+.bounce{
+    transition: 300ms; 
+}
+.slide:first-child.bounce{
+    transform: translate3d(0,10%,0);          
+} 
+.slide:last-child.bounce{
+    transform: translate3d(0,-10%,0);          
+}
+.slide:nth-child(1) .bg{
+    background-image: url(gallery/firstPage.jpg);  
+}
+.slide:nth-child(2) .bg{
+    background-image: url(gallery/camera.jpg);  
+}
+.slide:nth-child(3) .bg{
+    background-image: url(gallery/bottle.jpg);  
+}
+.slide:nth-child(4) .bg{
+    background-image: url(gallery/bike.jpg); 
+}
