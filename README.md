@@ -1,21 +1,18 @@
 ### Hi there 👋
 <hr />
 
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/JS__Count/blob/master/Gif.gif"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/JQuery__FullPageScroll/blob/master/4ycq74.gif"/>
 
 <hr />
-<h1> 👉 <a href="https://mishka-sakhelashvili.github.io/JS__Count/">  View Demo  </a></h1>
+<h1> 👉 <a href="https://mishka-sakhelashvili.github.io/JQuery__FullPageScroll/">  View Demo  </a></h1>
 
-<hr />
-<h2><i>Desc: </i></h2>
-<p> Count Down </p>
 
 <hr />
 <h2><i>Used Technologies: </i></h2>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
 <hr />
